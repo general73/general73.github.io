@@ -44,4 +44,12 @@ topics:
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/7f96d7ea34ea0b21f159792a6a8f43b716b33379/topics/csharp/csharp.png
 
-  - name: Web design
+  - name: ASP.NET
+    web_url: https://github.com/topics/aspnet
+    image_url: https://raw.githubusercontent.com/github/explore/810200c742ba8daf9eaf98bbbde9f4eb2149fd8d/topics/aspnet/aspnet.png
+
+  - name: Unity
+    web_url: https://github.com/topics/unity
+    image_url: https://raw.githubusercontent.com/github/explore/c9f1edf5650515721edff818dffa8e14614aa266/topics/unity/unity.png
+
+  - name: WPF
